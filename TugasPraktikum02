@@ -46,7 +46,7 @@ class Lingkaran {
     }
 }
 
-public class MenghitungLuasPraktikum02 {
+public class TugasPraktikum02 {
      public static void main(String[] args) {
         
         Scanner scan = new Scanner(System.in);
